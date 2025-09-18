@@ -1,0 +1,37 @@
+/* This is a comment.
+   This document contains CSS code
+   for styling the HTML content.
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #c79f9f;
+    color: #9a0202;
+}
+
+header {
+    background-color: #007bff;
+    color: rgb(171, 133, 231);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(183, 232, 6);
+    border: 1px solid #59017c;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #13dc4f;
+    color: rgb(243, 3, 179);
+    margin-top: 20px;
+}
