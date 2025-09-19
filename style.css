@@ -8,21 +8,21 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #c79f9f;
-    color: #9a0202;
+    background-color: #ece2a8;
+    color: #ffffff;
 }
 
 header {
-    background-color: #007bff;
-    color: rgb(171, 133, 231);
+    background-color: rgb(93, 118, 168);
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
 
 main {
-    background-color: rgb(183, 232, 6);
-    border: 1px solid #59017c;
-    border-radius: 5px;
+    background-color: rgb(93, 118, 168);
+    border: 12px solid #ffffff;
+    border-radius: 10px;
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
@@ -31,7 +31,7 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background: #13dc4f;
-    color: rgb(243, 3, 179);
+    background: #ffffff;
+    color: rgb(0, 0, 0);
     margin-top: 20px;
 }
